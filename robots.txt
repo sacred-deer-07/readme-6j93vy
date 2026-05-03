@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sacred-deer-07.github.io/readme-6j93vy/sitemap.xml
